@@ -713,6 +713,6 @@ Then open a pull request with a clear description of the change and how it was t
 
 <div align="center">
 
-ESC — turning AI assistance into a persistent learning and execution system.
+ESC — turning AI assistance into a persistent learning and execution system..
 
 </div>
